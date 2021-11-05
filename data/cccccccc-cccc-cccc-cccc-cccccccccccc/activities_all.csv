@@ -1,0 +1,8 @@
+id,user_id,record_type,description,timestamp_start,timestamp_end,payload,created,last_modified
+cccccccc-cccc-cccc-cccc-cccccccccc00,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_BREAKFAST,"3 Vollkorntoast, 75g Schmelzk�se, 35g Butter, 100g Spargel",2021-02-17T06:00:00+01:00,,,,
+cccccccc-cccc-cccc-cccc-cccccccccc01,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_LUNCH,"350g Spinat,250g Kartoffeln, 2 Spiegeleier, 400ml Rotwein",2021-02-17T13:45:00+01:00,,,,
+cccccccc-cccc-cccc-cccc-cccccccccc02,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_DINNER,"1 Vollkornbrot, 25g Butter, 65g Romadur, 20g Emmentaler, 100g Tomate",2021-02-17T19:45:00+01:00,,,,
+cccccccc-cccc-cccc-cccc-cccccccccc03,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_LUNCH,"140g gebackener Leberk�se, 150g Erbsen-M�hren, 100g gekochte Kartoffeln, 2 Spiegeleier, Raps�l, 250 ml Rotwein",2021-02-19T11:45:00+01:00,,,,
+cccccccc-cccc-cccc-cccc-cccccccccc04,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_DINNER,"1 Vollkornbr�tchen, 70g Leberk�se, 100g Mixed Pickles, 100g Erdn�sse",2021-02-19T18:30:00+01:00,,,,
+cccccccc-cccc-cccc-cccc-cccccccccc05,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_LUNCH,"H�hnchenschenkel, 100g Kartoffelsalat, 50g Kopfsalat, 50g Blumenkohl, 50g Blumenkohlsalat, 40g Tomatensalat",2021-02-21T12:45:00+01:00,,,,
+cccccccc-cccc-cccc-cccc-cccccccccc06,cccccccc-cccc-cccc-cccc-cccccccccccc,MEAL_DINNER,"1 Schb. Vollkorndinkelbrot, 30g Butter, 100g Kartoffelsalat, 100g Tomatensalat, 400 ml Rotwein",2021-02-21T18:00:00+01:00,,,,
